@@ -9,3 +9,6 @@
 .DS_Store
 
 .vscode/*
+# git add --all 将所有文件传入暂存区
+# git commit -m '第一次提交git项目'  -->提交一个暂存区
+
